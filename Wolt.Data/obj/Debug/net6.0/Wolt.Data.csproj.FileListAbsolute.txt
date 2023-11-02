@@ -1,0 +1,15 @@
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/bin/Debug/net6.0/Wolt.Data.deps.json
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/bin/Debug/net6.0/Wolt.Data.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/bin/Debug/net6.0/Wolt.Data.pdb
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/bin/Debug/net6.0/Wolt.Core.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/bin/Debug/net6.0/Wolt.Core.pdb
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/Wolt.Data.csproj.AssemblyReference.cache
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/Wolt.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/Wolt.Data.AssemblyInfoInputs.cache
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/Wolt.Data.AssemblyInfo.cs
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/Wolt.Data.csproj.CoreCompileInputs.cache
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/Wolt.Data.csproj.CopyComplete
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/Wolt.Data.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/refint/Wolt.Data.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/Wolt.Data.pdb
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Data/obj/Debug/net6.0/ref/Wolt.Data.dll

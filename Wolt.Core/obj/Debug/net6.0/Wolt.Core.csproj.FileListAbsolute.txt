@@ -1,0 +1,12 @@
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/bin/Debug/net6.0/Wolt.Core.deps.json
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/bin/Debug/net6.0/Wolt.Core.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/bin/Debug/net6.0/Wolt.Core.pdb
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/obj/Debug/net6.0/Wolt.Core.csproj.AssemblyReference.cache
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/obj/Debug/net6.0/Wolt.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/obj/Debug/net6.0/Wolt.Core.AssemblyInfoInputs.cache
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/obj/Debug/net6.0/Wolt.Core.AssemblyInfo.cs
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/obj/Debug/net6.0/Wolt.Core.csproj.CoreCompileInputs.cache
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/obj/Debug/net6.0/Wolt.Core.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/obj/Debug/net6.0/refint/Wolt.Core.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/obj/Debug/net6.0/Wolt.Core.pdb
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Core/obj/Debug/net6.0/ref/Wolt.Core.dll

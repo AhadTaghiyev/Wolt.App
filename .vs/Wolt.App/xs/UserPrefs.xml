@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{30FC62DA-BAA8-43CF-9792-4CBFCF596F4D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Wolt.App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Wolt.Service/Services/Implementations/MenuService.cs">
+    <Files>
+      <File FileName="Wolt.App/Program.cs" Line="1" Column="1" />
+      <File FileName="Wolt.Core/Models/BaseModels/BaseModel.cs" Line="4" Column="17" />
+      <File FileName="Wolt.Core/Enums/Category.cs" Line="8" Column="9" />
+      <File FileName="Wolt.Core/Repositories/IProductRepository.cs" Line="11" Column="1" />
+      <File FileName="Wolt.Data/Repositores/ProductRepository.cs" Line="9" Column="3" />
+      <File FileName="Wolt.Service/Services/Implementations/MenuService.cs" Line="117" Column="19" />
+      <File FileName="Wolt.Service/Services/Implementations/ProductService.cs" Line="86" Column="1" />
+      <File FileName="Wolt.Core/Models/Product.cs" Line="29" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Wolt.App" expanded="True">
+            <Node name="Wolt.App" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

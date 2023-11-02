@@ -1,0 +1,17 @@
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/Wolt.Service.csproj.AssemblyReference.cache
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/Wolt.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/Wolt.Service.AssemblyInfoInputs.cache
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/Wolt.Service.AssemblyInfo.cs
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/Wolt.Service.csproj.CoreCompileInputs.cache
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/bin/Debug/net6.0/Wolt.Service.deps.json
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/bin/Debug/net6.0/Wolt.Service.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/bin/Debug/net6.0/Wolt.Service.pdb
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/bin/Debug/net6.0/Wolt.Core.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/bin/Debug/net6.0/Wolt.Data.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/bin/Debug/net6.0/Wolt.Data.pdb
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/bin/Debug/net6.0/Wolt.Core.pdb
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/Wolt.Service.csproj.CopyComplete
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/Wolt.Service.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/refint/Wolt.Service.dll
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/Wolt.Service.pdb
+/Users/ehedtagiyev/Projects/Wolt.App/Wolt.Service/obj/Debug/net6.0/ref/Wolt.Service.dll

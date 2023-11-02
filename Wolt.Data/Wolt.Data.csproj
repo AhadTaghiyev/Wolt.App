@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wolt.Core\Wolt.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Repositores\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositores\" />
+  </ItemGroup>
+</Project>
